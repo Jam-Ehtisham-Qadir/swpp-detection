@@ -4,6 +4,6 @@ opencv-python-headless==4.8.1.78
 pymupdf
 pillow
 pandas
-numpy
+numpy<2
 torch
 torchvision
