@@ -1,0 +1,6 @@
+swpp_env/
+google_drive_data/
+data/
+*.zip
+__pycache__/
+*.pyc
